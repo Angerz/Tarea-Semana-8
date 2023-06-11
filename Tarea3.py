@@ -66,6 +66,7 @@ if __name__ == "__main__":
 
     #Velocidad de salida
     print('La velocidad de salida V7 es:', velocidad_salida(velocidad_entrada,N2,N3,N4,N5,N6,N7))
+    print('La potencia de salida H7 es: ', potencia_entrada)
 
     #Calcula los diámetros de los engranajes
     for i in range(6):
